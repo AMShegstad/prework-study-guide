@@ -25,19 +25,19 @@ To alter contents of the wepage, navigate to the ~/bootcamp/prework-study-guide,
 
 Open the webpage with a simple click to view it. From here you can view the notes stored on the webpage. Anything you want to add? Feel free to contribute and send a pull request!
 
-![Prework Study Guide Web Application](assets/images/PreworkStudyguide1.png)
+![Prework Study Guide Web Application](https://github.com/AMShegstad/prework-study-guide/blob/feature/project-README/prework-study-guide/assets/images/PreworkStudyGuide1.png?raw=true)
 
 To view the results of the page's JavaScript with Chrome's Developer Tools, including a suggestion on which topic to study, simply right click on the page and click inspect. Alternatively, you can press shift+i on Windows or Command+Option+i on Mac.
 
-![How to locate Chrome Developer Tools](assets/images/PreworkStudyGuide2.png)
+![How to locate Chrome Developer Tools](https://github.com/AMShegstad/prework-study-guide/blob/feature/project-README/prework-study-guide/assets/images/PreworkStudyGuide2.png?raw=true)
 
 Click on the Console option to view the results of the page's JavaScript.
 
-![Locate and click on Console tab](assets/images/PreworkStudyGuide3.png)
+![Locate and click on Console tab](https://github.com/AMShegstad/prework-study-guide/blob/feature/project-README/prework-study-guide/assets/images/PreworkStudyGuide3.png?raw=true)
 
 and Tadaa! Here are the results!
 
-![Tadaa!](assets/images/PreworkStudyGuide4.png)
+![Tadaa!](https://github.com/AMShegstad/prework-study-guide/blob/feature/project-README/prework-study-guide/assets/images/PreworkStudyGuide4.png?raw=true)
 
 ## Credits
 
